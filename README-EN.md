@@ -120,6 +120,6 @@ where https://pastebin.com/raw/UkFWzLOt is your web page with a list of proxies 
   
 Put the file in the folder with `runner.py` and add the following option to the command (replace `proxies.txt` with the name of your file)
 
-    --proxies proxies.txt https://ria.ru
+    --proxies proxies.txt https://tsn.ua
 
 where `proxies.txt` is your proxy list file (each proxy should be on a new line)
