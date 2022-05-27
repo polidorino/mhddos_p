@@ -123,6 +123,6 @@
   
 Положите файл в папку из `runner.py` и добавьте в команду следующий параметр (замените `proxies.txt` на имя своего файла)
 
-    --proxies proxies.txt https://ria.ru
+    --proxies proxies.txt https://tsn.ua
 
 где `proxies.txt` - ваш файл со списком прокси (каждый прокси из новой строки)
