@@ -117,7 +117,7 @@ async def run_ddos(args):
     if is_old_version:
         logger.warning(
             f"{cl.CYAN}{t('A new version is available, update is recommended')}{cl.RESET}: "
-#            "https://telegra.ph/Onovlennya-mhddos-proxy-04-16\n"
+            "https://github.com/BionecX/mhddos_p_docs/docs/ph_Onovlennya-mhddos-proxy-04-16\n"
         )
 
     debug, http_methods, initial_capacity, fork_scale = (
