@@ -8,7 +8,7 @@
 
 ### Mac
 
-https://telegra.ph/Vstanovlennya-mhddos-proxy-napryamu-na-vash-Mac-04-03
+[Mac_installation](https://telegra.ph/Vstanovlennya-mhddos-proxy-napryamu-na-vash-Mac-04-0333)
 
 ### Android
 
