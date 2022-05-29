@@ -1,6 +1,6 @@
 ### Windows
 
-[Windows_installation](https://telegra.ph/Vstanovlennya-mhddos-proxy-napryamu-na-vash-komp-03-2777)  
+[Windows_installation](https://github.com/BionecX/mhddos_p_docs/blob/main/docs/ph_Ustanovka-mhddos-proxy-napryamu-na-vash-komp-03-27.md)  
 
 ### Linux
 
