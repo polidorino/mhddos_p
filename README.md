@@ -59,12 +59,12 @@
 Сам скрипт та інструкції по встановленню тут: https://github.com/BionecX/proxy_finder
 
 ### 5. 🐳 Комьюнити
-- [Создание ботнета из 30+ бесплатных и автономных (работают даже при выключенном ПК) Linux-серверов](https://auto-ddos.notion.site/dd91326ed30140208383ffedd0f13e5cсс)
+- [Создание ботнета из 30+ бесплатных и автономных (работают даже при выключенном ПК) Linux-серверов](https://auto-ddos.notion.site/dd91326ed30140208383ffedd0f13e5cсс1)
 - [Подробный разбор mhddos_p и инструкции по установке](docs/installation.md)
-- [Анализ средства mhddos_p](https://telegra.ph/Anal%D1%96z-zasobu-mhddos-proxy-04-0111)
+- [Анализ средства mhddos_p](https://github.com/BionecX/mhddos_p_docs/blob/main/docs/README_analiz_sredstva_mhddos_h.md)
 - [Пример запуска через docker на OpenWRT](https://youtu.be/MlL6fuDcWlIII)
 - [VPN](https://auto-ddos.notion.site/VPN-5e45e0aadccc449e83fea45d56385b5444)
-- [Docker-image](https://github.com/alexnest-ua/auto_mhddos_alexnest/tree/dockerrr), который запускает одновременно mhddos_p и [proxy_finder](https://github.com/BionecX/proxy_finder) (для Linux / Mac добавьте sudo в начале):
+- [Docker-image](https://github.com/alexnest-ru/auto_mhddos_alexnest/tree/dockerrr), который запускает одновременно mhddos_p и [proxy_finder](https://github.com/BionecX/proxy_finder) (для Linux / Mac добавьте sudo в начале):
 
 ### 6. CLI
 
